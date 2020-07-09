@@ -15,6 +15,10 @@ public class PersonaServiceImpl implements IpersonService  {
 	@Autowired
 	public IPersonaDao dao;
 	
+	
+	
+	
+	
 	@Override
 	public List<Persona> ListarPersonas(Persona persona) {
 		
